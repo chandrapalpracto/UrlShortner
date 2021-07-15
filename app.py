@@ -8,8 +8,8 @@ app.config.update(
     MAIL_SERVER='smtp.gmail.com',
     MAIL_PORT=465,
     MAIL_USE_SSL=True,
-    MAIL_USERNAME='codeplanettechnologies@gmail.com',
-    MAIL_PASSWORD='7976104534'
+    MAIL_USERNAME='',
+    MAIL_PASSWORD=''
 )
 app.secret_key='ghjhjhq/213763fbf'
 
